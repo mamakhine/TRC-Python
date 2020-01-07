@@ -56,8 +56,26 @@ IndentationError: unexpected indent
 >>> 3 ** 9
 19683
 >>>
+
+
+int - integer - 1, 2 , 3, -----> 308930 etc
+float-        - 1.0, 5.9, 6.00, 63.23, 5.2334 etc
+string =     - 'Hello', "World" , "A" , "B"
+
+a = 1
+a (Variable) = (asign) 1 (value)
 >>> width = 20
 >>> height = 5 * 9
 >>> width * height
 900
 >>>
+print('span eggs')
+span eggs
+>>> print('don\'t ')
+don't
+>>> print('doesn't')
+  File "<stdin>", line 1
+    print('doesn't')
+                 ^
+
+                 
