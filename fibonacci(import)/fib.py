@@ -12,10 +12,10 @@
 # fibonacci.fib(10000)
 # -------------------
 
-from fibonacci import fib, fib2, dog
+#from fibonacci import fib, fib2, dog
 
-fib(100)
-dog()
+#fib(100)
+#dog()
 
 # ------------------
 
@@ -23,7 +23,8 @@ dog()
 
 # fib(500)
 # print(fib2(500))
-
+# name()
+# dog()
 # ------------------
 
 # import fibonacci as fi

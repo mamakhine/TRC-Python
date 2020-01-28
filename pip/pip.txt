@@ -1,0 +1,13 @@
+#PIP
+
+# a package manager for python packages
+#contains all the files you need for a module.
+
+pip --version							= Version Check
+pip install								= pip Installation
+python -m pip install -- upgrade pipe	= pip Updrage
+--user									= User Permission
+pip install numpy						= numpy install
+pip install -m requirement.txt			= read the text file
+python -n pip uninstall pip 			= uninstall pip
+pip uninstall pip   					= uninstall package 		
